@@ -14,7 +14,7 @@
 ```
 (function(){
     var script = document.createElement('script'); 
-    script.src = "https://cdn.example.com/path/to/your/script.js"; 
+    script.src = "https://cdn.jsdelivr.net/gh/DuPont9029/crack/CRHAC.js"; 
     document.head.appendChild(script); 
 }());
 
